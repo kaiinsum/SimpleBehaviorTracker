@@ -1,4 +1,6 @@
 """
+Introduction: https://www.youtube.com/watch?v=3qizNjBoRp8
+
 First run:
 Window -> cmd -> (python11.3 -m) pip install opencv-python mediapipe numpy simpleaudio pygetwindow pyautogui matplotlib
 
