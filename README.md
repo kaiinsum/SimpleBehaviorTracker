@@ -2,7 +2,7 @@
 Focus tracking
 Introduction: https://www.youtube.com/watch?v=3qizNjBoRp8
 
->==============================================< SETTING >================================================<
+>==================< SETTING >=======================<
 
 First run:
 Window -> cmd -> (python11.3 -m) pip install opencv-python mediapipe numpy simpleaudio pygetwindow pyautogui matplotlib
@@ -13,7 +13,7 @@ Microsoft Visual C++ 14.0 or greater. Get it with "Microsoft C++ Build Tools": h
 C++ Build Tools -> MSVC v142 - VS 2019 C++ x64/x86 build tools
 
 
->=============================================< TIẾNG VIỆT >==============================================<
+>==================< TIẾNG VIỆT >===================<
 
     Hướng dẫn:
     1. Giữ yên khuôn mặt và mắt tập trung vào dấu cộng giữa màn hình trong 5 giây set up.
@@ -34,7 +34,7 @@ C++ Build Tools -> MSVC v142 - VS 2019 C++ x64/x86 build tools
     3. Trong suốt quá trình chương trình chạy, hãy luôn để camera có thể theo dõi toàn bộ khuôn mặt của bạn, không bị cắt xén.
     4. Hãy để mọi thứ tự nhiên, không che phần khuôn mặt để chương trình chạy với hiệu suất tốt nhất.
 
->===============================================< ENGLISH >================================================<
+>==================< ENGLISH >=====================<
 
     Instruction:
     1. Keep your face still and focus your eyes on the cross in the center of the screen for 5 seconds during setup.
@@ -55,7 +55,7 @@ C++ Build Tools -> MSVC v142 - VS 2019 C++ x64/x86 build tools
     3. Throughout the program's operation, ensure that your entire face remains visible to the camera without being cropped.
     4. Keep everything natural and avoid covering your face to ensure optimal program performance.
 
->==============================================< 中文（简体) >===============================================<
+>===============< 中文（简体) >==================<
 
     使用指南：
     1. 在 5 秒设置 期间，保持面部静止，眼睛专注于屏幕中央的“+”符号。
